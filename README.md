@@ -1,3 +1,4 @@
+<p><img align='right' alt="Hello world" src='https://github.com/Mandelbort/image/blob/main/Hellow%20World.gif' width='500' height='320'></P>
 - 👋 Hi, I’m @Mandelbort
 - I am a beginner programmer
 - I love football
@@ -6,5 +7,3 @@
 - I love learning programming
 - #change-through-Programming
 - I want to be AI enginner and love to work in Health and tourism 
-
-<p><img align='right' alt="Hello world" src='https://github.com/Mandelbort/image/blob/main/Hellow%20World.gif' width='500' height='320'></P>
