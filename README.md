@@ -1,9 +1,3 @@
 <p><img align='left' alt="Hello world" src='https://github.com/Mandelbort/image/blob/main/Hellow%20World.gif' width='500px' height='500px'></P>
-- 👋 Hi, I’m @Mandelbort
-- I am a beginner programmer
-- I love football
-- I love Gaming sucha as Dota 2 , Counterstrike GO
-- I am hardworking
-- I love learning programming
-- #change-through-Programming
-- I want to be AI enginner and love to work in Health and tourism 
+<h3> College Student , Frontend and Backend web designer </h3>
+
