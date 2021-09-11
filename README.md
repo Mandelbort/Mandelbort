@@ -6,7 +6,8 @@
   <li>Python</li>
   <li>Computer Science College Student</li>
   <li>Gamer</li>
- <ul>
+ </ul>
+  
 <img alt='noting' align='left' src='https://github.com/Mandelbort/image/blob/main/css.png'>
 <img alt='noting' align='left' src='https://github.com/Mandelbort/image/blob/main/html.png'>
 <img alt='noting' align='left' src='https://github.com/Mandelbort/image/blob/main/javascript.png'>
