@@ -1,4 +1,4 @@
-<p><img alt="Hello world" src='https://github.com/Mandelbort/image/blob/main/Hellow%20World.gif' width='500px' height='500px'></P>
+<p><img align='left' alt="Hello world" src='https://github.com/Mandelbort/image/blob/main/Hellow%20World.gif' width='500px' height='500px'></P>
 - 👋 Hi, I’m @Mandelbort
 - I am a beginner programmer
 - I love football
